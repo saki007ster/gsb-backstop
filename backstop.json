@@ -1,0 +1,1010 @@
+{
+  "id": "backstop_default",
+  "viewports": [
+    {
+      "label": "desktop",
+      "width": 1440,
+      "height": 900
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "scenarios": [
+    {
+      "label": "TheExperience",
+      "url": "https://www.gsb.stanford.edu/experience",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "AboutUs",
+      "url": "https://www.gsb.stanford.edu/experience/about",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "TheLeadership",
+      "url": "https://www.gsb.stanford.edu/experience/about/leadership",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Dean’sUpdates",
+      "url": "https://www.gsb.stanford.edu/experience/about/leadership/updates",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "SchoolNews&History",
+      "url": "https://www.gsb.stanford.edu/experience/news-history",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Commencement",
+      "url": "https://www.gsb.stanford.edu/experience/news-history/commencement",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Voices",
+      "url": "https://www.gsb.stanford.edu/experience/voices",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Business,Government&SocietyInitiative",
+      "url": "https://www.gsb.stanford.edu/business-government-society",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Diversity,Equity&Inclusion",
+      "url": "https://www.gsb.stanford.edu/experience/diversity-equity-inclusion",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Centers&Institutes",
+      "url": "https://www.gsb.stanford.edu/experience/about/centers-institutes",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "CenterforEntrepreneurialStudies",
+      "url": "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "CenterforSocialInnovation",
+      "url": "https://www.gsb.stanford.edu/experience/about/centers-institutes/csi",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "StanfordSeed",
+      "url": "https://www.gsb.stanford.edu/seed",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "LearningatStanfordGSB",
+      "url": "https://www.gsb.stanford.edu/experience/learning",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ExperientialLearning",
+      "url": "https://www.gsb.stanford.edu/experience/learning/experiential-learning",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "GuestSpeakers",
+      "url": "https://www.gsb.stanford.edu/experience/learning/guest-speakers",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Entrepreneurship",
+      "url": "https://www.gsb.stanford.edu/experience/learning/entrepreneurship",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Leadership",
+      "url": "https://www.gsb.stanford.edu/experience/learning/leadership",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "SocialInnovation",
+      "url": "https://www.gsb.stanford.edu/experience/learning/social-innovation",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Communication",
+      "url": "https://www.gsb.stanford.edu/experience/learning/communication",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "LifeatStanfordGSB",
+      "url": "https://www.gsb.stanford.edu/experience/life",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "CollaborativeEnvironment",
+      "url": "https://www.gsb.stanford.edu/experience/life/collaborative-environment",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Activities&Organizations",
+      "url": "https://www.gsb.stanford.edu/experience/life/activities-organizations",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "StudentServices",
+      "url": "https://www.gsb.stanford.edu/experience/life/student-services",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "HousingOptions",
+      "url": "https://www.gsb.stanford.edu/experience/life/housing-options",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "InternationalStudents",
+      "url": "https://www.gsb.stanford.edu/experience/life/international-students",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ThePrograms",
+      "url": "https://www.gsb.stanford.edu/programs",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "MBA",
+      "url": "https://www.gsb.stanford.edu/programs/mba",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "WhyStanfordMBA",
+      "url": "https://www.gsb.stanford.edu/programs/mba/why-stanford-mba",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "AcademicExperience",
+      "url": "https://www.gsb.stanford.edu/programs/mba/academic-experience",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Admission",
+      "url": "https://www.gsb.stanford.edu/programs/mba/admission",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "FinancialAid",
+      "url": "https://www.gsb.stanford.edu/programs/mba/tuition-financial-aid",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "MSx",
+      "url": "https://www.gsb.stanford.edu/programs/msx",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "WhyStanfordMSx",
+      "url": "https://www.gsb.stanford.edu/programs/msx/why-stanford-msx",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Curriculum",
+      "url": "https://www.gsb.stanford.edu/programs/msx/curriculum",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Admission",
+      "url": "https://www.gsb.stanford.edu/programs/msx/admission",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "FinancialAid",
+      "url": "https://www.gsb.stanford.edu/programs/msx/financial-aid",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "PhD",
+      "url": "https://www.gsb.stanford.edu/programs/phd",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "AcademicExperience",
+      "url": "https://www.gsb.stanford.edu/programs/phd/academic-experience",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Admission",
+      "url": "https://www.gsb.stanford.edu/programs/phd/admission",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "FinancialAid",
+      "url": "https://www.gsb.stanford.edu/programs/phd/financial-aid",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ResearchFellowsProgram",
+      "url": "https://www.gsb.stanford.edu/programs/research-fellows",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "SeeAllPrograms",
+      "url": "https://www.gsb.stanford.edu/programs",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ExecutiveEducation",
+      "url": "https://www.gsb.stanford.edu/exec-ed",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "StanfordExecutiveProgram",
+      "url": "https://www.gsb.stanford.edu/exec-ed/programs/stanford-executive-program",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ProgramsforOrganizations",
+      "url": "https://www.gsb.stanford.edu/exec-ed/organizations",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "TheDifference",
+      "url": "https://www.gsb.stanford.edu/exec-ed/difference",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "OnlinePrograms",
+      "url": "https://www.gsb.stanford.edu/exec-ed/programs/online-business-courses",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "StanfordLEAD",
+      "url": "https://www.gsb.stanford.edu/exec-ed/programs/stanford-lead-online-business-program",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "StanfordInnovationandEntrepreneurshipCertificate",
+      "url": "https://www.gsb.stanford.edu/content/stanford-innovation-entrepreneurship-certificate",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "StanfordSeed",
+      "url": "https://www.gsb.stanford.edu/seed",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "SeedTransformationProgram",
+      "url": "https://www.gsb.stanford.edu/seed/programs/transformation",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "SeedSparkProgram",
+      "url": "https://www.gsb.stanford.edu/seed/programs/spark",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Faculty&Research",
+      "url": "https://www.gsb.stanford.edu/faculty-research",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "FacultyProfiles",
+      "url": "https://www.gsb.stanford.edu/faculty-research/faculty",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "AcademicAreas",
+      "url": "https://www.gsb.stanford.edu/faculty-research/faculty/academic-areas",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Awards&Honors",
+      "url": "https://www.gsb.stanford.edu/faculty-research/faculty/awards-honors",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Seminars",
+      "url": "https://www.gsb.stanford.edu/faculty-research/faculty/seminars",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Conferences",
+      "url": "https://www.gsb.stanford.edu/faculty-research/faculty/conferences",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Voices",
+      "url": "https://www.gsb.stanford.edu/faculty-research/faculty/voices",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Publications",
+      "url": "https://www.gsb.stanford.edu/faculty-research/publications",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "WorkingPapers",
+      "url": "https://www.gsb.stanford.edu/faculty-research/working-papers",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "CaseStudies",
+      "url": "https://www.gsb.stanford.edu/faculty-research/case-studies",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Books",
+      "url": "https://www.gsb.stanford.edu/faculty-research/books",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ResearchLabs&Initiatives",
+      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "BusinessLibrary",
+      "url": "https://www.gsb.stanford.edu/library",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Data,Analytics&ResearchComputing",
+      "url": "https://www.gsb.stanford.edu/faculty-research/darc",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "BehavioralLab",
+      "url": "https://www.gsb.stanford.edu/faculty-research/labs/behavioral-lab",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Cities,Housing&SocietyLab",
+      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/chs",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "GolubCapitalSocialImpactLab",
+      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/sil",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "CorporateGovernanceResearchInitiative",
+      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/cgri",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "CorporationsandSocietyInitiative",
+      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/casi",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "PolicyandInnovationInitiative",
+      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/pii",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "RapidDecarbonizationInitiative",
+      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/rdi",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "StanfordLatinoEntrepreneurshipInitiative",
+      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/slei",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ValueChainInnovationInitiative",
+      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/vcii",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "VentureCapitalInitiative",
+      "url": "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/vci",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Insights",
+      "url": "https://www.gsb.stanford.edu/insights",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Accounting",
+      "url": "https://www.gsb.stanford.edu/insights/accounting",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Career&Success",
+      "url": "https://www.gsb.stanford.edu/insights/career-success",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Climate&Sustainability",
+      "url": "https://www.gsb.stanford.edu/insights/climate-sustainability",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "CorporateGovernance",
+      "url": "https://www.gsb.stanford.edu/insights/corporate-governance",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Economics",
+      "url": "https://www.gsb.stanford.edu/insights/economics",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Education",
+      "url": "https://www.gsb.stanford.edu/insights/education",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Entrepreneurship",
+      "url": "https://www.gsb.stanford.edu/insights/entrepreneurship",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Finance",
+      "url": "https://www.gsb.stanford.edu/insights/finance",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Government&Politics",
+      "url": "https://www.gsb.stanford.edu/insights/government-politics",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Healthcare",
+      "url": "https://www.gsb.stanford.edu/insights/healthcare",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Innovation",
+      "url": "https://www.gsb.stanford.edu/insights/innovation",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Leadership",
+      "url": "https://www.gsb.stanford.edu/insights/leadership",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Management",
+      "url": "https://www.gsb.stanford.edu/insights/management",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Marketing",
+      "url": "https://www.gsb.stanford.edu/insights/marketing",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Nonprofit",
+      "url": "https://www.gsb.stanford.edu/insights/nonprofit",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Operations,Information&Technology",
+      "url": "https://www.gsb.stanford.edu/insights/operations-information-technology",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "OrganizationalBehavior",
+      "url": "https://www.gsb.stanford.edu/insights/organizational-behavior",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "PoliticalEconomy",
+      "url": "https://www.gsb.stanford.edu/insights/political-economy",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "SocialImpact",
+      "url": "https://www.gsb.stanford.edu/insights/social-impact",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "SupplyChain",
+      "url": "https://www.gsb.stanford.edu/insights/supply-chain",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Technology&AI",
+      "url": "https://www.gsb.stanford.edu/insights/technology-ai",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Opinion&Analysis",
+      "url": "https://www.gsb.stanford.edu/insights/opinion",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Magazine",
+      "url": "https://www.gsb.stanford.edu/magazine",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Podcasts",
+      "url": "https://www.gsb.stanford.edu/business-podcasts",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "EmailNewsletter",
+      "url": "https://www.gsb.stanford.edu/insights/subscribe",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Alumni",
+      "url": "https://www.gsb.stanford.edu/alumni",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Communities",
+      "url": "https://www.gsb.stanford.edu/alumni/communities",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "DigitalCommunities&Tools",
+      "url": "https://www.gsb.stanford.edu/alumni/communities/alumni-network",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "RegionalChapters",
+      "url": "https://www.gsb.stanford.edu/alumni/communities/regional-chapters",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Women’sPrograms",
+      "url": "https://www.gsb.stanford.edu/alumni/communities/womens-programs",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "IdentityChapters",
+      "url": "https://www.gsb.stanford.edu/alumni/communities/identity-chapters",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "FindYourReunion",
+      "url": "https://www.gsb.stanford.edu/alumni/reunions",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Events",
+      "url": "https://www.gsb.stanford.edu/alumni/featured-events",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "CareerResources",
+      "url": "https://www.gsb.stanford.edu/alumni/career-resources",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "JobSearchResources",
+      "url": "https://www.gsb.stanford.edu/alumni/career-resources/job-search",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Career&LifeTransitions",
+      "url": "https://www.gsb.stanford.edu/alumni/career-resources/transitions",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Programs&Services",
+      "url": "https://www.gsb.stanford.edu/alumni/career-resources/programs",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "CareerVideoLibrary",
+      "url": "https://www.gsb.stanford.edu/alumni/career-resources/video-library",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "AlumniEducation",
+      "url": "https://www.gsb.stanford.edu/alumni/education-lifelong-learning",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ResearchResources",
+      "url": "https://www.gsb.stanford.edu/alumni/education-lifelong-learning/research-resources",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Volunteering",
+      "url": "https://www.gsb.stanford.edu/alumni/volunteering",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "AlumniNews",
+      "url": "https://www.gsb.stanford.edu/alumni/news",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ClassNotes",
+      "url": "https://www.gsb.stanford.edu/alumni/news/class-notes",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "AlumniVoices",
+      "url": "https://www.gsb.stanford.edu/alumni/news/voices",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Books",
+      "url": "https://www.gsb.stanford.edu/alumni/news/books",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Giving",
+      "url": "https://www.gsb.stanford.edu/alumni/giving",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ContactAlumniRelations",
+      "url": "https://www.gsb.stanford.edu/alumni/contact",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Events",
+      "url": "https://www.gsb.stanford.edu/events",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "MBAProgram",
+      "url": "https://www.gsb.stanford.edu/programs/mba/admission/events/schedule",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "MSxProgram",
+      "url": "https://www.gsb.stanford.edu/programs/msx/admission/events",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "PhDProgram",
+      "url": "https://www.gsb.stanford.edu/programs/phd/admission/events",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "SeedTransformationProgram",
+      "url": "https://www.gsb.stanford.edu/seed/programs/transformation/admission",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "AlumniEvents",
+      "url": "https://www.gsb.stanford.edu/alumni/featured-events",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "AllOtherEvents",
+      "url": "https://www.gsb.stanford.edu/events",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ContactUs",
+      "url": "https://www.gsb.stanford.edu/contact",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "VisitUs",
+      "url": "https://www.gsb.stanford.edu/visit",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "StayInTouch",
+      "url": "https://www.gsb.stanford.edu/contact/stay-touch",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Companies,Organizations&Recruiters",
+      "url": "https://www.gsb.stanford.edu/organizations",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "StanfordCommunity",
+      "url": "https://www.gsb.stanford.edu/stanford-community",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Newsroom",
+      "url": "https://www.gsb.stanford.edu/newsroom",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+  },
+    {
+      "label": "Library",
+      "url": "https://www.gsb.stanford.edu/library",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Jobs",
+      "url": "https://www.gsb.stanford.edu/jobs",
+      "referenceUrl": "",
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "playwright",
+  "engineOptions": {
+    "args": ["--no-sandbox"]
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
