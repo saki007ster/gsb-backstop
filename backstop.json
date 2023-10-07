@@ -10,982 +10,982 @@
   "onBeforeScript": "puppet/onBefore.js",
   "onReadyScript": "puppet/onReady.js",
   "scenarios": [
-    {
-      "label": "TheExperience",
-      "url": "https://www.gsb.stanford.edu/experience",
-      "referenceUrl": "",
-      "misMatchThreshold" : 0.1,
-      "requireSameDimensions": true
+  {
+    "label": "TheExperience",
+    "url": "https://pr-4335-stanford-business.pantheonsite.io/experience",
+    "referenceUrl": "",
+    "misMatchThreshold" : 0.1,
+    "requireSameDimensions": true
     },
     {
       "label": "AboutUs",
-      "url": "https://www.gsb.stanford.edu/experience/about",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/about",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "TheLeadership",
-      "url": "https://www.gsb.stanford.edu/experience/about/leadership",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/about/leadership",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Dean’sUpdates",
-      "url": "https://www.gsb.stanford.edu/experience/about/leadership/updates",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/about/leadership/updates",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "SchoolNews&History",
-      "url": "https://www.gsb.stanford.edu/experience/news-history",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/news-history",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Commencement",
-      "url": "https://www.gsb.stanford.edu/experience/news-history/commencement",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/news-history/commencement",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Voices",
-      "url": "https://www.gsb.stanford.edu/experience/voices",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/voices",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Business,Government&SocietyInitiative",
-      "url": "https://www.gsb.stanford.edu/business-government-society",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/business-government-society",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Diversity,Equity&Inclusion",
-      "url": "https://www.gsb.stanford.edu/experience/diversity-equity-inclusion",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/diversity-equity-inclusion",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Centers&Institutes",
-      "url": "https://www.gsb.stanford.edu/experience/about/centers-institutes",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/about/centers-institutes",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "CenterforEntrepreneurialStudies",
-      "url": "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/about/centers-institutes/ces",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "CenterforSocialInnovation",
-      "url": "https://www.gsb.stanford.edu/experience/about/centers-institutes/csi",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/about/centers-institutes/csi",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "StanfordSeed",
-      "url": "https://www.gsb.stanford.edu/seed",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/seed",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "LearningatStanfordGSB",
-      "url": "https://www.gsb.stanford.edu/experience/learning",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/learning",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "ExperientialLearning",
-      "url": "https://www.gsb.stanford.edu/experience/learning/experiential-learning",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/learning/experiential-learning",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "GuestSpeakers",
-      "url": "https://www.gsb.stanford.edu/experience/learning/guest-speakers",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/learning/guest-speakers",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Entrepreneurship",
-      "url": "https://www.gsb.stanford.edu/experience/learning/entrepreneurship",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/learning/entrepreneurship",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Leadership",
-      "url": "https://www.gsb.stanford.edu/experience/learning/leadership",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/learning/leadership",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "SocialInnovation",
-      "url": "https://www.gsb.stanford.edu/experience/learning/social-innovation",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/learning/social-innovation",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Communication",
-      "url": "https://www.gsb.stanford.edu/experience/learning/communication",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/learning/communication",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "LifeatStanfordGSB",
-      "url": "https://www.gsb.stanford.edu/experience/life",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/life",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "CollaborativeEnvironment",
-      "url": "https://www.gsb.stanford.edu/experience/life/collaborative-environment",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/life/collaborative-environment",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Activities&Organizations",
-      "url": "https://www.gsb.stanford.edu/experience/life/activities-organizations",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/life/activities-organizations",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "StudentServices",
-      "url": "https://www.gsb.stanford.edu/experience/life/student-services",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/life/student-services",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "HousingOptions",
-      "url": "https://www.gsb.stanford.edu/experience/life/housing-options",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/life/housing-options",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "InternationalStudents",
-      "url": "https://www.gsb.stanford.edu/experience/life/international-students",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/experience/life/international-students",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "ThePrograms",
-      "url": "https://www.gsb.stanford.edu/programs",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "MBA",
-      "url": "https://www.gsb.stanford.edu/programs/mba",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/mba",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "WhyStanfordMBA",
-      "url": "https://www.gsb.stanford.edu/programs/mba/why-stanford-mba",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/mba/why-stanford-mba",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "AcademicExperience",
-      "url": "https://www.gsb.stanford.edu/programs/mba/academic-experience",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/mba/academic-experience",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Admission",
-      "url": "https://www.gsb.stanford.edu/programs/mba/admission",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/mba/admission",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "FinancialAid",
-      "url": "https://www.gsb.stanford.edu/programs/mba/tuition-financial-aid",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/mba/tuition-financial-aid",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "MSx",
-      "url": "https://www.gsb.stanford.edu/programs/msx",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/msx",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "WhyStanfordMSx",
-      "url": "https://www.gsb.stanford.edu/programs/msx/why-stanford-msx",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/msx/why-stanford-msx",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Curriculum",
-      "url": "https://www.gsb.stanford.edu/programs/msx/curriculum",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/msx/curriculum",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Admission",
-      "url": "https://www.gsb.stanford.edu/programs/msx/admission",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/msx/admission",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "FinancialAid",
-      "url": "https://www.gsb.stanford.edu/programs/msx/financial-aid",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/msx/financial-aid",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "PhD",
-      "url": "https://www.gsb.stanford.edu/programs/phd",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/phd",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "AcademicExperience",
-      "url": "https://www.gsb.stanford.edu/programs/phd/academic-experience",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/phd/academic-experience",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Admission",
-      "url": "https://www.gsb.stanford.edu/programs/phd/admission",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/phd/admission",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "FinancialAid",
-      "url": "https://www.gsb.stanford.edu/programs/phd/financial-aid",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/phd/financial-aid",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "ResearchFellowsProgram",
-      "url": "https://www.gsb.stanford.edu/programs/research-fellows",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/research-fellows",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "SeeAllPrograms",
-      "url": "https://www.gsb.stanford.edu/programs",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "ExecutiveEducation",
-      "url": "https://www.gsb.stanford.edu/exec-ed",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/exec-ed",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "StanfordExecutiveProgram",
-      "url": "https://www.gsb.stanford.edu/exec-ed/programs/stanford-executive-program",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/exec-ed/programs/stanford-executive-program",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "ProgramsforOrganizations",
-      "url": "https://www.gsb.stanford.edu/exec-ed/organizations",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/exec-ed/organizations",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "TheDifference",
-      "url": "https://www.gsb.stanford.edu/exec-ed/difference",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/exec-ed/difference",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "OnlinePrograms",
-      "url": "https://www.gsb.stanford.edu/exec-ed/programs/online-business-courses",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/exec-ed/programs/online-business-courses",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "StanfordLEAD",
-      "url": "https://www.gsb.stanford.edu/exec-ed/programs/stanford-lead-online-business-program",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/exec-ed/programs/stanford-lead-online-business-program",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "StanfordInnovationandEntrepreneurshipCertificate",
-      "url": "https://www.gsb.stanford.edu/content/stanford-innovation-entrepreneurship-certificate",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/content/stanford-innovation-entrepreneurship-certificate",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "StanfordSeed",
-      "url": "https://www.gsb.stanford.edu/seed",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/seed",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "SeedTransformationProgram",
-      "url": "https://www.gsb.stanford.edu/seed/programs/transformation",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/seed/programs/transformation",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "SeedSparkProgram",
-      "url": "https://www.gsb.stanford.edu/seed/programs/spark",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/seed/programs/spark",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Faculty&Research",
-      "url": "https://www.gsb.stanford.edu/faculty-research",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "FacultyProfiles",
-      "url": "https://www.gsb.stanford.edu/faculty-research/faculty",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/faculty",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "AcademicAreas",
-      "url": "https://www.gsb.stanford.edu/faculty-research/faculty/academic-areas",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/faculty/academic-areas",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Awards&Honors",
-      "url": "https://www.gsb.stanford.edu/faculty-research/faculty/awards-honors",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/faculty/awards-honors",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Seminars",
-      "url": "https://www.gsb.stanford.edu/faculty-research/faculty/seminars",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/faculty/seminars",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Conferences",
-      "url": "https://www.gsb.stanford.edu/faculty-research/faculty/conferences",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/faculty/conferences",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Voices",
-      "url": "https://www.gsb.stanford.edu/faculty-research/faculty/voices",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/faculty/voices",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Publications",
-      "url": "https://www.gsb.stanford.edu/faculty-research/publications",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/publications",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "WorkingPapers",
-      "url": "https://www.gsb.stanford.edu/faculty-research/working-papers",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/working-papers",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "CaseStudies",
-      "url": "https://www.gsb.stanford.edu/faculty-research/case-studies",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/case-studies",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Books",
-      "url": "https://www.gsb.stanford.edu/faculty-research/books",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/books",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "ResearchLabs&Initiatives",
-      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/labs-initiatives",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "BusinessLibrary",
-      "url": "https://www.gsb.stanford.edu/library",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/library",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Data,Analytics&ResearchComputing",
-      "url": "https://www.gsb.stanford.edu/faculty-research/darc",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/darc",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "BehavioralLab",
-      "url": "https://www.gsb.stanford.edu/faculty-research/labs/behavioral-lab",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/labs/behavioral-lab",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Cities,Housing&SocietyLab",
-      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/chs",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/labs-initiatives/chs",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "GolubCapitalSocialImpactLab",
-      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/sil",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/labs-initiatives/sil",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "CorporateGovernanceResearchInitiative",
-      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/cgri",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/labs-initiatives/cgri",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "CorporationsandSocietyInitiative",
-      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/casi",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/labs-initiatives/casi",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "PolicyandInnovationInitiative",
-      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/pii",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/labs-initiatives/pii",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "RapidDecarbonizationInitiative",
-      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/rdi",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/labs-initiatives/rdi",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "StanfordLatinoEntrepreneurshipInitiative",
-      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/slei",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/labs-initiatives/slei",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "ValueChainInnovationInitiative",
-      "url": "https://www.gsb.stanford.edu/faculty-research/labs-initiatives/vcii",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/labs-initiatives/vcii",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "VentureCapitalInitiative",
-      "url": "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/vci",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/faculty-research/centers-initiatives/vci",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Insights",
-      "url": "https://www.gsb.stanford.edu/insights",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Accounting",
-      "url": "https://www.gsb.stanford.edu/insights/accounting",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/accounting",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Career&Success",
-      "url": "https://www.gsb.stanford.edu/insights/career-success",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/career-success",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Climate&Sustainability",
-      "url": "https://www.gsb.stanford.edu/insights/climate-sustainability",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/climate-sustainability",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "CorporateGovernance",
-      "url": "https://www.gsb.stanford.edu/insights/corporate-governance",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/corporate-governance",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Economics",
-      "url": "https://www.gsb.stanford.edu/insights/economics",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/economics",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Education",
-      "url": "https://www.gsb.stanford.edu/insights/education",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/education",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Entrepreneurship",
-      "url": "https://www.gsb.stanford.edu/insights/entrepreneurship",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/entrepreneurship",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Finance",
-      "url": "https://www.gsb.stanford.edu/insights/finance",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/finance",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Government&Politics",
-      "url": "https://www.gsb.stanford.edu/insights/government-politics",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/government-politics",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Healthcare",
-      "url": "https://www.gsb.stanford.edu/insights/healthcare",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/healthcare",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Innovation",
-      "url": "https://www.gsb.stanford.edu/insights/innovation",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/innovation",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Leadership",
-      "url": "https://www.gsb.stanford.edu/insights/leadership",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/leadership",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Management",
-      "url": "https://www.gsb.stanford.edu/insights/management",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/management",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Marketing",
-      "url": "https://www.gsb.stanford.edu/insights/marketing",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/marketing",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Nonprofit",
-      "url": "https://www.gsb.stanford.edu/insights/nonprofit",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/nonprofit",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Operations,Information&Technology",
-      "url": "https://www.gsb.stanford.edu/insights/operations-information-technology",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/operations-information-technology",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "OrganizationalBehavior",
-      "url": "https://www.gsb.stanford.edu/insights/organizational-behavior",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/organizational-behavior",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "PoliticalEconomy",
-      "url": "https://www.gsb.stanford.edu/insights/political-economy",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/political-economy",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "SocialImpact",
-      "url": "https://www.gsb.stanford.edu/insights/social-impact",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/social-impact",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "SupplyChain",
-      "url": "https://www.gsb.stanford.edu/insights/supply-chain",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/supply-chain",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Technology&AI",
-      "url": "https://www.gsb.stanford.edu/insights/technology-ai",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/technology-ai",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Opinion&Analysis",
-      "url": "https://www.gsb.stanford.edu/insights/opinion",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/opinion",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Magazine",
-      "url": "https://www.gsb.stanford.edu/magazine",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/magazine",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Podcasts",
-      "url": "https://www.gsb.stanford.edu/business-podcasts",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/business-podcasts",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "EmailNewsletter",
-      "url": "https://www.gsb.stanford.edu/insights/subscribe",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/insights/subscribe",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Alumni",
-      "url": "https://www.gsb.stanford.edu/alumni",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Communities",
-      "url": "https://www.gsb.stanford.edu/alumni/communities",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/communities",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "DigitalCommunities&Tools",
-      "url": "https://www.gsb.stanford.edu/alumni/communities/alumni-network",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/communities/alumni-network",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "RegionalChapters",
-      "url": "https://www.gsb.stanford.edu/alumni/communities/regional-chapters",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/communities/regional-chapters",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Women’sPrograms",
-      "url": "https://www.gsb.stanford.edu/alumni/communities/womens-programs",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/communities/womens-programs",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "IdentityChapters",
-      "url": "https://www.gsb.stanford.edu/alumni/communities/identity-chapters",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/communities/identity-chapters",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "FindYourReunion",
-      "url": "https://www.gsb.stanford.edu/alumni/reunions",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/reunions",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Events",
-      "url": "https://www.gsb.stanford.edu/alumni/featured-events",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/featured-events",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "CareerResources",
-      "url": "https://www.gsb.stanford.edu/alumni/career-resources",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/career-resources",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "JobSearchResources",
-      "url": "https://www.gsb.stanford.edu/alumni/career-resources/job-search",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/career-resources/job-search",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Career&LifeTransitions",
-      "url": "https://www.gsb.stanford.edu/alumni/career-resources/transitions",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/career-resources/transitions",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Programs&Services",
-      "url": "https://www.gsb.stanford.edu/alumni/career-resources/programs",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/career-resources/programs",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "CareerVideoLibrary",
-      "url": "https://www.gsb.stanford.edu/alumni/career-resources/video-library",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/career-resources/video-library",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "AlumniEducation",
-      "url": "https://www.gsb.stanford.edu/alumni/education-lifelong-learning",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/education-lifelong-learning",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "ResearchResources",
-      "url": "https://www.gsb.stanford.edu/alumni/education-lifelong-learning/research-resources",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/education-lifelong-learning/research-resources",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Volunteering",
-      "url": "https://www.gsb.stanford.edu/alumni/volunteering",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/volunteering",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "AlumniNews",
-      "url": "https://www.gsb.stanford.edu/alumni/news",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/news",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "ClassNotes",
-      "url": "https://www.gsb.stanford.edu/alumni/news/class-notes",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/news/class-notes",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "AlumniVoices",
-      "url": "https://www.gsb.stanford.edu/alumni/news/voices",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/news/voices",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Books",
-      "url": "https://www.gsb.stanford.edu/alumni/news/books",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/news/books",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Giving",
-      "url": "https://www.gsb.stanford.edu/alumni/giving",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/giving",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "ContactAlumniRelations",
-      "url": "https://www.gsb.stanford.edu/alumni/contact",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/contact",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Events",
-      "url": "https://www.gsb.stanford.edu/events",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/events",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "MBAProgram",
-      "url": "https://www.gsb.stanford.edu/programs/mba/admission/events/schedule",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/mba/admission/events/schedule",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "MSxProgram",
-      "url": "https://www.gsb.stanford.edu/programs/msx/admission/events",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/msx/admission/events",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "PhDProgram",
-      "url": "https://www.gsb.stanford.edu/programs/phd/admission/events",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/programs/phd/admission/events",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "SeedTransformationProgram",
-      "url": "https://www.gsb.stanford.edu/seed/programs/transformation/admission",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/seed/programs/transformation/admission",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "AlumniEvents",
-      "url": "https://www.gsb.stanford.edu/alumni/featured-events",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/alumni/featured-events",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "AllOtherEvents",
-      "url": "https://www.gsb.stanford.edu/events",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/events",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "ContactUs",
-      "url": "https://www.gsb.stanford.edu/contact",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/contact",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "VisitUs",
-      "url": "https://www.gsb.stanford.edu/visit",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/visit",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "StayInTouch",
-      "url": "https://www.gsb.stanford.edu/contact/stay-touch",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/contact/stay-touch",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Companies,Organizations&Recruiters",
-      "url": "https://www.gsb.stanford.edu/organizations",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/organizations",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "StanfordCommunity",
-      "url": "https://www.gsb.stanford.edu/stanford-community",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/stanford-community",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Newsroom",
-      "url": "https://www.gsb.stanford.edu/newsroom",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/newsroom",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
   },
     {
       "label": "Library",
-      "url": "https://www.gsb.stanford.edu/library",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/library",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
     },
     {
       "label": "Jobs",
-      "url": "https://www.gsb.stanford.edu/jobs",
+      "url": "https://pr-4335-stanford-business.pantheonsite.io/jobs",
       "referenceUrl": "",
       "misMatchThreshold" : 0.1,
       "requireSameDimensions": true
