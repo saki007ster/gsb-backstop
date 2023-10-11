@@ -5,5 +5,5 @@
 # Learn more from ready-to-use templates: https://www.gitpod.io/docs/introduction/getting-started/quickstart
 
 tasks:
-  - init: npm install backstopjs -g && npx playwirght install && npx playwirght install-deps
+  - init: npm install backstopjs -g && npx playwright install && npx playwright install-deps
 
