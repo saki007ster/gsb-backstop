@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Homepage_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Homepage_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Homepage_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Homepage_0_document_0_desktop.png",
         "label": "Homepage",
@@ -21,7 +21,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_TheExperience_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_TheExperience_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_TheExperience_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_TheExperience_0_document_0_desktop.png",
         "label": "TheExperience",
@@ -38,7 +38,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_AboutUs_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_AboutUs_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_AboutUs_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_AboutUs_0_document_0_desktop.png",
         "label": "AboutUs",
@@ -55,7 +55,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_TheLeadership_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_TheLeadership_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_TheLeadership_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_TheLeadership_0_document_0_desktop.png",
         "label": "TheLeadership",
@@ -72,7 +72,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_DeansUpdates_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_DeansUpdates_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_DeansUpdates_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_DeansUpdates_0_document_0_desktop.png",
         "label": "Dean’sUpdates",
@@ -89,7 +89,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SchoolNewsHistory_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_SchoolNewsHistory_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_SchoolNewsHistory_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SchoolNewsHistory_0_document_0_desktop.png",
         "label": "SchoolNews&History",
@@ -106,7 +106,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Commencement_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Commencement_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Commencement_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Commencement_0_document_0_desktop.png",
         "label": "Commencement",
@@ -123,7 +123,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Voices_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Voices_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Voices_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Voices_0_document_0_desktop.png",
         "label": "Voices",
@@ -140,7 +140,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_BusinessGovernmentSocietyInitiative_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_BusinessGovernmentSocietyInitiative_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_BusinessGovernmentSocietyInitiative_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_BusinessGovernmentSocietyInitiative_0_document_0_desktop.png",
         "label": "Business,Government&SocietyInitiative",
@@ -157,7 +157,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_DiversityEquityInclusion_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_DiversityEquityInclusion_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_DiversityEquityInclusion_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_DiversityEquityInclusion_0_document_0_desktop.png",
         "label": "Diversity,Equity&Inclusion",
@@ -174,7 +174,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CentersInstitutes_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_CentersInstitutes_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_CentersInstitutes_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CentersInstitutes_0_document_0_desktop.png",
         "label": "Centers&Institutes",
@@ -191,7 +191,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CenterforEntrepreneurialStudies_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_CenterforEntrepreneurialStudies_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_CenterforEntrepreneurialStudies_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CenterforEntrepreneurialStudies_0_document_0_desktop.png",
         "label": "CenterforEntrepreneurialStudies",
@@ -208,7 +208,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CenterforSocialInnovation_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_CenterforSocialInnovation_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_CenterforSocialInnovation_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CenterforSocialInnovation_0_document_0_desktop.png",
         "label": "CenterforSocialInnovation",
@@ -225,7 +225,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_StanfordSeed_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_StanfordSeed_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_StanfordSeed_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_StanfordSeed_0_document_0_desktop.png",
         "label": "StanfordSeed",
@@ -242,7 +242,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_LearningatStanfordGSB_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_LearningatStanfordGSB_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_LearningatStanfordGSB_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_LearningatStanfordGSB_0_document_0_desktop.png",
         "label": "LearningatStanfordGSB",
@@ -259,7 +259,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ExperientialLearning_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_ExperientialLearning_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_ExperientialLearning_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ExperientialLearning_0_document_0_desktop.png",
         "label": "ExperientialLearning",
@@ -276,7 +276,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_GuestSpeakers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_GuestSpeakers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_GuestSpeakers_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_GuestSpeakers_0_document_0_desktop.png",
         "label": "GuestSpeakers",
@@ -293,7 +293,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Entrepreneurship_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Entrepreneurship_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Entrepreneurship_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Entrepreneurship_0_document_0_desktop.png",
         "label": "Entrepreneurship",
@@ -310,7 +310,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Leadership_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Leadership_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Leadership_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Leadership_0_document_0_desktop.png",
         "label": "Leadership",
@@ -327,7 +327,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SocialInnovation_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_SocialInnovation_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_SocialInnovation_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SocialInnovation_0_document_0_desktop.png",
         "label": "SocialInnovation",
@@ -344,7 +344,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Communication_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Communication_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Communication_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Communication_0_document_0_desktop.png",
         "label": "Communication",
@@ -361,7 +361,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_LifeatStanfordGSB_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_LifeatStanfordGSB_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_LifeatStanfordGSB_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_LifeatStanfordGSB_0_document_0_desktop.png",
         "label": "LifeatStanfordGSB",
@@ -378,7 +378,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CollaborativeEnvironment_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_CollaborativeEnvironment_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_CollaborativeEnvironment_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CollaborativeEnvironment_0_document_0_desktop.png",
         "label": "CollaborativeEnvironment",
@@ -395,7 +395,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ActivitiesOrganizations_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_ActivitiesOrganizations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_ActivitiesOrganizations_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ActivitiesOrganizations_0_document_0_desktop.png",
         "label": "Activities&Organizations",
@@ -412,7 +412,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_StudentServices_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_StudentServices_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_StudentServices_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_StudentServices_0_document_0_desktop.png",
         "label": "StudentServices",
@@ -429,7 +429,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_HousingOptions_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_HousingOptions_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_HousingOptions_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_HousingOptions_0_document_0_desktop.png",
         "label": "HousingOptions",
@@ -446,7 +446,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_InternationalStudents_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_InternationalStudents_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_InternationalStudents_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_InternationalStudents_0_document_0_desktop.png",
         "label": "InternationalStudents",
@@ -463,7 +463,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ThePrograms_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_ThePrograms_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_ThePrograms_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ThePrograms_0_document_0_desktop.png",
         "label": "ThePrograms",
@@ -480,7 +480,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_MBA_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_MBA_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_MBA_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_MBA_0_document_0_desktop.png",
         "label": "MBA",
@@ -497,7 +497,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_WhyStanfordMBA_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_WhyStanfordMBA_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_WhyStanfordMBA_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_WhyStanfordMBA_0_document_0_desktop.png",
         "label": "WhyStanfordMBA",
@@ -514,7 +514,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_AcademicExperience_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_AcademicExperience_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_AcademicExperience_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_AcademicExperience_0_document_0_desktop.png",
         "label": "AcademicExperience",
@@ -531,7 +531,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Admission_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Admission_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Admission_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Admission_0_document_0_desktop.png",
         "label": "Admission",
@@ -548,7 +548,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_FinancialAid_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_FinancialAid_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_FinancialAid_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_FinancialAid_0_document_0_desktop.png",
         "label": "FinancialAid",
@@ -565,7 +565,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_MSx_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_MSx_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_MSx_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_MSx_0_document_0_desktop.png",
         "label": "MSx",
@@ -582,7 +582,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_WhyStanfordMSx_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_WhyStanfordMSx_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_WhyStanfordMSx_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_WhyStanfordMSx_0_document_0_desktop.png",
         "label": "WhyStanfordMSx",
@@ -599,7 +599,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Curriculum_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Curriculum_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Curriculum_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Curriculum_0_document_0_desktop.png",
         "label": "Curriculum",
@@ -616,7 +616,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Admission_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Admission_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Admission_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Admission_0_document_0_desktop.png",
         "label": "Admission",
@@ -633,7 +633,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_FinancialAid_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_FinancialAid_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_FinancialAid_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_FinancialAid_0_document_0_desktop.png",
         "label": "FinancialAid",
@@ -650,7 +650,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_PhD_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_PhD_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_PhD_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_PhD_0_document_0_desktop.png",
         "label": "PhD",
@@ -667,7 +667,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_AcademicExperience_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_AcademicExperience_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_AcademicExperience_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_AcademicExperience_0_document_0_desktop.png",
         "label": "AcademicExperience",
@@ -684,7 +684,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Admission_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Admission_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Admission_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Admission_0_document_0_desktop.png",
         "label": "Admission",
@@ -701,7 +701,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_FinancialAid_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_FinancialAid_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_FinancialAid_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_FinancialAid_0_document_0_desktop.png",
         "label": "FinancialAid",
@@ -718,7 +718,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ResearchFellowsProgram_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_ResearchFellowsProgram_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_ResearchFellowsProgram_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ResearchFellowsProgram_0_document_0_desktop.png",
         "label": "ResearchFellowsProgram",
@@ -735,7 +735,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SeeAllPrograms_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_SeeAllPrograms_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_SeeAllPrograms_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SeeAllPrograms_0_document_0_desktop.png",
         "label": "SeeAllPrograms",
@@ -752,7 +752,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ExecutiveEducation_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_ExecutiveEducation_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_ExecutiveEducation_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ExecutiveEducation_0_document_0_desktop.png",
         "label": "ExecutiveEducation",
@@ -769,7 +769,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_StanfordExecutiveProgram_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_StanfordExecutiveProgram_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_StanfordExecutiveProgram_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_StanfordExecutiveProgram_0_document_0_desktop.png",
         "label": "StanfordExecutiveProgram",
@@ -786,7 +786,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ProgramsforOrganizations_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_ProgramsforOrganizations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_ProgramsforOrganizations_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ProgramsforOrganizations_0_document_0_desktop.png",
         "label": "ProgramsforOrganizations",
@@ -803,7 +803,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_TheDifference_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_TheDifference_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_TheDifference_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_TheDifference_0_document_0_desktop.png",
         "label": "TheDifference",
@@ -820,7 +820,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OnlinePrograms_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_OnlinePrograms_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_OnlinePrograms_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OnlinePrograms_0_document_0_desktop.png",
         "label": "OnlinePrograms",
@@ -837,7 +837,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_StanfordLEAD_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_StanfordLEAD_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_StanfordLEAD_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_StanfordLEAD_0_document_0_desktop.png",
         "label": "StanfordLEAD",
@@ -854,7 +854,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_StanfordInnovationandEntrepreneurshipCertificate_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_StanfordInnovationandEntrepreneurshipCertificate_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_StanfordInnovationandEntrepreneurshipCertificate_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_StanfordInnovationandEntrepreneurshipCertificate_0_document_0_desktop.png",
         "label": "StanfordInnovationandEntrepreneurshipCertificate",
@@ -871,7 +871,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_StanfordSeed_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_StanfordSeed_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_StanfordSeed_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_StanfordSeed_0_document_0_desktop.png",
         "label": "StanfordSeed",
@@ -888,7 +888,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SeedTransformationProgram_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_SeedTransformationProgram_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_SeedTransformationProgram_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SeedTransformationProgram_0_document_0_desktop.png",
         "label": "SeedTransformationProgram",
@@ -905,7 +905,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SeedSparkProgram_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_SeedSparkProgram_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_SeedSparkProgram_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SeedSparkProgram_0_document_0_desktop.png",
         "label": "SeedSparkProgram",
@@ -922,7 +922,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_FacultyResearch_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_FacultyResearch_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_FacultyResearch_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_FacultyResearch_0_document_0_desktop.png",
         "label": "Faculty&Research",
@@ -939,7 +939,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_FacultyProfiles_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_FacultyProfiles_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_FacultyProfiles_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_FacultyProfiles_0_document_0_desktop.png",
         "label": "FacultyProfiles",
@@ -956,7 +956,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_AcademicAreas_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_AcademicAreas_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_AcademicAreas_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_AcademicAreas_0_document_0_desktop.png",
         "label": "AcademicAreas",
@@ -973,7 +973,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_AwardsHonors_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_AwardsHonors_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_AwardsHonors_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_AwardsHonors_0_document_0_desktop.png",
         "label": "Awards&Honors",
@@ -990,7 +990,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Seminars_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Seminars_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Seminars_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Seminars_0_document_0_desktop.png",
         "label": "Seminars",
@@ -1007,7 +1007,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Conferences_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Conferences_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Conferences_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Conferences_0_document_0_desktop.png",
         "label": "Conferences",
@@ -1024,7 +1024,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Voices_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Voices_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Voices_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Voices_0_document_0_desktop.png",
         "label": "Voices",
@@ -1041,7 +1041,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Publications_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Publications_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Publications_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Publications_0_document_0_desktop.png",
         "label": "Publications",
@@ -1058,7 +1058,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_WorkingPapers_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_WorkingPapers_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_WorkingPapers_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_WorkingPapers_0_document_0_desktop.png",
         "label": "WorkingPapers",
@@ -1075,7 +1075,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CaseStudies_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_CaseStudies_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_CaseStudies_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CaseStudies_0_document_0_desktop.png",
         "label": "CaseStudies",
@@ -1092,7 +1092,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Books_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Books_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Books_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Books_0_document_0_desktop.png",
         "label": "Books",
@@ -1109,7 +1109,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ResearchLabsInitiatives_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_ResearchLabsInitiatives_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_ResearchLabsInitiatives_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ResearchLabsInitiatives_0_document_0_desktop.png",
         "label": "ResearchLabs&Initiatives",
@@ -1126,7 +1126,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_BusinessLibrary_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_BusinessLibrary_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_BusinessLibrary_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_BusinessLibrary_0_document_0_desktop.png",
         "label": "BusinessLibrary",
@@ -1143,7 +1143,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_DataAnalyticsResearchComputing_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_DataAnalyticsResearchComputing_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_DataAnalyticsResearchComputing_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_DataAnalyticsResearchComputing_0_document_0_desktop.png",
         "label": "Data,Analytics&ResearchComputing",
@@ -1160,7 +1160,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_BehavioralLab_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_BehavioralLab_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_BehavioralLab_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_BehavioralLab_0_document_0_desktop.png",
         "label": "BehavioralLab",
@@ -1177,7 +1177,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CitiesHousingSocietyLab_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_CitiesHousingSocietyLab_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_CitiesHousingSocietyLab_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CitiesHousingSocietyLab_0_document_0_desktop.png",
         "label": "Cities,Housing&SocietyLab",
@@ -1194,7 +1194,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_GolubCapitalSocialImpactLab_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_GolubCapitalSocialImpactLab_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_GolubCapitalSocialImpactLab_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_GolubCapitalSocialImpactLab_0_document_0_desktop.png",
         "label": "GolubCapitalSocialImpactLab",
@@ -1211,7 +1211,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CorporateGovernanceResearchInitiative_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_CorporateGovernanceResearchInitiative_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_CorporateGovernanceResearchInitiative_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CorporateGovernanceResearchInitiative_0_document_0_desktop.png",
         "label": "CorporateGovernanceResearchInitiative",
@@ -1228,7 +1228,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CorporationsandSocietyInitiative_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_CorporationsandSocietyInitiative_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_CorporationsandSocietyInitiative_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CorporationsandSocietyInitiative_0_document_0_desktop.png",
         "label": "CorporationsandSocietyInitiative",
@@ -1245,7 +1245,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_PolicyandInnovationInitiative_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_PolicyandInnovationInitiative_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_PolicyandInnovationInitiative_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_PolicyandInnovationInitiative_0_document_0_desktop.png",
         "label": "PolicyandInnovationInitiative",
@@ -1262,7 +1262,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_RapidDecarbonizationInitiative_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_RapidDecarbonizationInitiative_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_RapidDecarbonizationInitiative_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_RapidDecarbonizationInitiative_0_document_0_desktop.png",
         "label": "RapidDecarbonizationInitiative",
@@ -1279,7 +1279,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_StanfordLatinoEntrepreneurshipInitiative_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_StanfordLatinoEntrepreneurshipInitiative_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_StanfordLatinoEntrepreneurshipInitiative_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_StanfordLatinoEntrepreneurshipInitiative_0_document_0_desktop.png",
         "label": "StanfordLatinoEntrepreneurshipInitiative",
@@ -1296,7 +1296,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ValueChainInnovationInitiative_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_ValueChainInnovationInitiative_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_ValueChainInnovationInitiative_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ValueChainInnovationInitiative_0_document_0_desktop.png",
         "label": "ValueChainInnovationInitiative",
@@ -1313,7 +1313,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_VentureCapitalInitiative_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_VentureCapitalInitiative_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_VentureCapitalInitiative_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_VentureCapitalInitiative_0_document_0_desktop.png",
         "label": "VentureCapitalInitiative",
@@ -1330,7 +1330,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Insights_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Insights_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Insights_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Insights_0_document_0_desktop.png",
         "label": "Insights",
@@ -1347,7 +1347,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Accounting_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Accounting_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Accounting_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Accounting_0_document_0_desktop.png",
         "label": "Accounting",
@@ -1364,7 +1364,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CareerSuccess_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_CareerSuccess_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_CareerSuccess_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CareerSuccess_0_document_0_desktop.png",
         "label": "Career&Success",
@@ -1381,7 +1381,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ClimateSustainability_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_ClimateSustainability_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_ClimateSustainability_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ClimateSustainability_0_document_0_desktop.png",
         "label": "Climate&Sustainability",
@@ -1398,7 +1398,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CorporateGovernance_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_CorporateGovernance_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_CorporateGovernance_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CorporateGovernance_0_document_0_desktop.png",
         "label": "CorporateGovernance",
@@ -1415,7 +1415,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Economics_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Economics_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Economics_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Economics_0_document_0_desktop.png",
         "label": "Economics",
@@ -1432,7 +1432,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Education_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Education_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Education_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Education_0_document_0_desktop.png",
         "label": "Education",
@@ -1449,7 +1449,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Entrepreneurship_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Entrepreneurship_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Entrepreneurship_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Entrepreneurship_0_document_0_desktop.png",
         "label": "Entrepreneurship",
@@ -1466,7 +1466,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Finance_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Finance_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Finance_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Finance_0_document_0_desktop.png",
         "label": "Finance",
@@ -1483,7 +1483,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_GovernmentPolitics_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_GovernmentPolitics_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_GovernmentPolitics_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_GovernmentPolitics_0_document_0_desktop.png",
         "label": "Government&Politics",
@@ -1500,7 +1500,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Healthcare_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Healthcare_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Healthcare_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Healthcare_0_document_0_desktop.png",
         "label": "Healthcare",
@@ -1517,7 +1517,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Innovation_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Innovation_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Innovation_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Innovation_0_document_0_desktop.png",
         "label": "Innovation",
@@ -1534,7 +1534,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Leadership_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Leadership_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Leadership_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Leadership_0_document_0_desktop.png",
         "label": "Leadership",
@@ -1551,7 +1551,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Management_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Management_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Management_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Management_0_document_0_desktop.png",
         "label": "Management",
@@ -1568,7 +1568,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Marketing_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Marketing_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Marketing_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Marketing_0_document_0_desktop.png",
         "label": "Marketing",
@@ -1585,7 +1585,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Nonprofit_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Nonprofit_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Nonprofit_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Nonprofit_0_document_0_desktop.png",
         "label": "Nonprofit",
@@ -1602,7 +1602,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OperationsInformationTechnology_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_OperationsInformationTechnology_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_OperationsInformationTechnology_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OperationsInformationTechnology_0_document_0_desktop.png",
         "label": "Operations,Information&Technology",
@@ -1619,7 +1619,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OrganizationalBehavior_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_OrganizationalBehavior_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_OrganizationalBehavior_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OrganizationalBehavior_0_document_0_desktop.png",
         "label": "OrganizationalBehavior",
@@ -1636,7 +1636,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_PoliticalEconomy_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_PoliticalEconomy_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_PoliticalEconomy_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_PoliticalEconomy_0_document_0_desktop.png",
         "label": "PoliticalEconomy",
@@ -1653,7 +1653,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SocialImpact_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_SocialImpact_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_SocialImpact_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SocialImpact_0_document_0_desktop.png",
         "label": "SocialImpact",
@@ -1670,7 +1670,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SupplyChain_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_SupplyChain_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_SupplyChain_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SupplyChain_0_document_0_desktop.png",
         "label": "SupplyChain",
@@ -1687,7 +1687,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_TechnologyAI_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_TechnologyAI_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_TechnologyAI_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_TechnologyAI_0_document_0_desktop.png",
         "label": "Technology&AI",
@@ -1704,7 +1704,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_OpinionAnalysis_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_OpinionAnalysis_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_OpinionAnalysis_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_OpinionAnalysis_0_document_0_desktop.png",
         "label": "Opinion&Analysis",
@@ -1721,7 +1721,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Magazine_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Magazine_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Magazine_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Magazine_0_document_0_desktop.png",
         "label": "Magazine",
@@ -1738,7 +1738,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Podcasts_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Podcasts_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Podcasts_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Podcasts_0_document_0_desktop.png",
         "label": "Podcasts",
@@ -1755,7 +1755,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_EmailNewsletter_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_EmailNewsletter_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_EmailNewsletter_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_EmailNewsletter_0_document_0_desktop.png",
         "label": "EmailNewsletter",
@@ -1772,7 +1772,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Alumni_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Alumni_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Alumni_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Alumni_0_document_0_desktop.png",
         "label": "Alumni",
@@ -1789,7 +1789,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Communities_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Communities_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Communities_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Communities_0_document_0_desktop.png",
         "label": "Communities",
@@ -1806,7 +1806,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_DigitalCommunitiesTools_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_DigitalCommunitiesTools_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_DigitalCommunitiesTools_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_DigitalCommunitiesTools_0_document_0_desktop.png",
         "label": "DigitalCommunities&Tools",
@@ -1823,7 +1823,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_RegionalChapters_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_RegionalChapters_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_RegionalChapters_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_RegionalChapters_0_document_0_desktop.png",
         "label": "RegionalChapters",
@@ -1840,7 +1840,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_WomensPrograms_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_WomensPrograms_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_WomensPrograms_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_WomensPrograms_0_document_0_desktop.png",
         "label": "Women’sPrograms",
@@ -1857,7 +1857,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_IdentityChapters_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_IdentityChapters_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_IdentityChapters_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_IdentityChapters_0_document_0_desktop.png",
         "label": "IdentityChapters",
@@ -1874,7 +1874,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_FindYourReunion_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_FindYourReunion_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_FindYourReunion_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_FindYourReunion_0_document_0_desktop.png",
         "label": "FindYourReunion",
@@ -1891,7 +1891,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Events_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Events_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Events_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Events_0_document_0_desktop.png",
         "label": "Events",
@@ -1908,7 +1908,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CareerResources_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_CareerResources_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_CareerResources_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CareerResources_0_document_0_desktop.png",
         "label": "CareerResources",
@@ -1925,7 +1925,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_JobSearchResources_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_JobSearchResources_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_JobSearchResources_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_JobSearchResources_0_document_0_desktop.png",
         "label": "JobSearchResources",
@@ -1942,7 +1942,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CareerLifeTransitions_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_CareerLifeTransitions_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_CareerLifeTransitions_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CareerLifeTransitions_0_document_0_desktop.png",
         "label": "Career&LifeTransitions",
@@ -1959,7 +1959,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ProgramsServices_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_ProgramsServices_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_ProgramsServices_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ProgramsServices_0_document_0_desktop.png",
         "label": "Programs&Services",
@@ -1976,7 +1976,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CareerVideoLibrary_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_CareerVideoLibrary_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_CareerVideoLibrary_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CareerVideoLibrary_0_document_0_desktop.png",
         "label": "CareerVideoLibrary",
@@ -1993,7 +1993,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_AlumniEducation_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_AlumniEducation_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_AlumniEducation_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_AlumniEducation_0_document_0_desktop.png",
         "label": "AlumniEducation",
@@ -2010,7 +2010,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ResearchResources_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_ResearchResources_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_ResearchResources_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ResearchResources_0_document_0_desktop.png",
         "label": "ResearchResources",
@@ -2027,7 +2027,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Volunteering_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Volunteering_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Volunteering_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Volunteering_0_document_0_desktop.png",
         "label": "Volunteering",
@@ -2044,7 +2044,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_AlumniNews_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_AlumniNews_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_AlumniNews_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_AlumniNews_0_document_0_desktop.png",
         "label": "AlumniNews",
@@ -2061,7 +2061,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ClassNotes_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_ClassNotes_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_ClassNotes_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ClassNotes_0_document_0_desktop.png",
         "label": "ClassNotes",
@@ -2078,7 +2078,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_AlumniVoices_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_AlumniVoices_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_AlumniVoices_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_AlumniVoices_0_document_0_desktop.png",
         "label": "AlumniVoices",
@@ -2095,7 +2095,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Books_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Books_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Books_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Books_0_document_0_desktop.png",
         "label": "Books",
@@ -2112,7 +2112,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Giving_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Giving_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Giving_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Giving_0_document_0_desktop.png",
         "label": "Giving",
@@ -2129,7 +2129,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ContactAlumniRelations_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_ContactAlumniRelations_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_ContactAlumniRelations_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ContactAlumniRelations_0_document_0_desktop.png",
         "label": "ContactAlumniRelations",
@@ -2146,7 +2146,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Events_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Events_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Events_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Events_0_document_0_desktop.png",
         "label": "Events",
@@ -2163,7 +2163,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_MBAProgram_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_MBAProgram_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_MBAProgram_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_MBAProgram_0_document_0_desktop.png",
         "label": "MBAProgram",
@@ -2180,7 +2180,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_MSxProgram_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_MSxProgram_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_MSxProgram_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_MSxProgram_0_document_0_desktop.png",
         "label": "MSxProgram",
@@ -2197,7 +2197,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_PhDProgram_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_PhDProgram_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_PhDProgram_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_PhDProgram_0_document_0_desktop.png",
         "label": "PhDProgram",
@@ -2214,7 +2214,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_SeedTransformationProgram_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_SeedTransformationProgram_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_SeedTransformationProgram_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_SeedTransformationProgram_0_document_0_desktop.png",
         "label": "SeedTransformationProgram",
@@ -2231,7 +2231,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_AlumniEvents_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_AlumniEvents_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_AlumniEvents_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_AlumniEvents_0_document_0_desktop.png",
         "label": "AlumniEvents",
@@ -2248,7 +2248,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_AllOtherEvents_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_AllOtherEvents_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_AllOtherEvents_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_AllOtherEvents_0_document_0_desktop.png",
         "label": "AllOtherEvents",
@@ -2265,7 +2265,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_ContactUs_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_ContactUs_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_ContactUs_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_ContactUs_0_document_0_desktop.png",
         "label": "ContactUs",
@@ -2282,7 +2282,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_VisitUs_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_VisitUs_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_VisitUs_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_VisitUs_0_document_0_desktop.png",
         "label": "VisitUs",
@@ -2299,7 +2299,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_StayInTouch_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_StayInTouch_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_StayInTouch_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_StayInTouch_0_document_0_desktop.png",
         "label": "StayInTouch",
@@ -2316,7 +2316,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CompaniesOrganizationsRecruiters_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_CompaniesOrganizationsRecruiters_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_CompaniesOrganizationsRecruiters_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CompaniesOrganizationsRecruiters_0_document_0_desktop.png",
         "label": "Companies,Organizations&Recruiters",
@@ -2333,7 +2333,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_StanfordCommunity_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_StanfordCommunity_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_StanfordCommunity_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_StanfordCommunity_0_document_0_desktop.png",
         "label": "StanfordCommunity",
@@ -2350,7 +2350,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Newsroom_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Newsroom_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Newsroom_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Newsroom_0_document_0_desktop.png",
         "label": "Newsroom",
@@ -2367,7 +2367,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Library_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Library_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Library_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Library_0_document_0_desktop.png",
         "label": "Library",
@@ -2384,7 +2384,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Jobs_0_document_0_desktop.png",
-        "test": "../bitmaps_test/20231027-033847/backstop_default_Jobs_0_document_0_desktop.png",
+        "test": "../bitmaps_test/20231027-040517/backstop_default_Jobs_0_document_0_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Jobs_0_document_0_desktop.png",
         "label": "Jobs",
